@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spiritphilip
 - 👀 I’m interested in creative solutions
 - 🌱 I’m currently learning more functional programming skills
-- 💞️ I’m looking to collaborate on blockchain Developermentn
+- 💞️ I’m looking to collaborate on blockchain Developerment
 - 📫 you can contact me via Twitter @spiritphilip 
 
 <!---
