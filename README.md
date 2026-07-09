@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/spiritphilip.com-1a6641?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spiritphilip.com)
 [![X](https://img.shields.io/badge/@spirit__philip-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/spirit_philip)
-[![Email](https://img.shields.io/badge/Get_in_touch-c94f1a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:spirit@spiritphilip.com)
+[![Email](https://img.shields.io/badge/Get_in_touch-c94f1a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:spiritphilip@gmail.com)
 
 </div>
 
