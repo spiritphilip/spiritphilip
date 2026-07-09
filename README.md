@@ -14,19 +14,19 @@
 
 ---
 
-I'm a multi-hyphenate builder from Nigeria. I lead a church, run a software studio, train the next generation of developers, and ship products. My work doesn't separate faith from technology — I build tools that serve real people and organizations, and I care about doing it well.
+I'm a multi-hyphenate builder from Nigeria. I lead a church, run a software studio, train the next generation of developers, and ship products. My work doesn't separate faith from technology. I build tools that serve real people and organizations, and I care about doing it well.
 
-- 🔭 **Founder & CEO of [Spent Digital Labs](https://spentdigitallabs.com)** — a software studio with offices in Abuja and Ondo.
+- 🔭 **Founder & CEO of [Spent Digital Labs](https://spentdigitallabs.com)**, a software studio with offices in Abuja and Ondo.
 - 🎓 Training developers at **Spent Academy** and connecting campuses through **TechXcellence**.
-- ⛪ **Lead Pastor**, Covenant and Light Chapel — and founder of **Light House**, a discipleship movement for youth.
+- ⛪ **Lead Pastor**, Covenant and Light Chapel. Founder of **Light House**, a discipleship movement for youth.
 - ✍️ Author of *Already Seated*. Gospel & worship artist.
-- 🌱 Currently deep in **full-stack TypeScript, Next.js, and Web3** — and always learning.
+- 🌱 Currently deep in **full-stack TypeScript, Next.js, and Web3**, and always learning.
 
 ## 🚀 What I'm building
 
 | Project | What it is |
 | --- | --- |
-| **Spent Digital Labs** | Software development studio — products, talent, client work |
+| **Spent Digital Labs** | Software development studio: products, talent, client work |
 | **Spent Academy** | Tech training campuses (Ondo & Abuja) |
 | **Usetimio** | Attendance-management SaaS for Nigerian organizations |
 | **XCROO** | Web3 AI-powered freelance marketplace with smart-contract escrow |
@@ -50,7 +50,7 @@ I'm a multi-hyphenate builder from Nigeria. I lead a church, run a software stud
 
 <div align="center">
 
-*"Warn, admonish, urge, and encourage one another every day, as long as it is called Today."* — Hebrews 3:13
+*"Warn, admonish, urge, and encourage one another every day, as long as it is called Today."* Hebrews 3:13
 
 **Shalom.**
 
