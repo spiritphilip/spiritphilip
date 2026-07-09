@@ -46,15 +46,6 @@ I'm a multi-hyphenate builder from Nigeria. I lead a church, run a software stud
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-## 📊 GitHub
-
-<div align="center">
-
-![Spirit Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiritphilip&show_icons=true&hide_border=true&title_color=1a6641&icon_color=c94f1a&text_color=555555)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spiritphilip&layout=compact&hide_border=true&title_color=1a6641&text_color=555555)
-
-</div>
-
 ---
 
 <div align="center">
